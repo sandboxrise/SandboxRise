@@ -1,0 +1,9 @@
+# SandboxRise brand materials — rights reserved
+
+The SandboxRise name and distinctive **orange SANDBOX / black RISE** presentation, logo/wordmark, girl-on-swing artwork, original swing story, brand marketing copy, and derivatives of supplied brand images are brand materials. In this profile bundle, that includes `assets/sandboxrise-mark.webp` and the original brand narrative in `README.md`. In the separately delivered website, this also includes the supplied/derived brand visuals under `assets/brand-*`, `assets/brand-source/`, `assets/email-rise-mark.jpg`, `assets/favicon-rise.png` and `assets/terms-girl-swing.webp`.
+
+**No open-source license to these brand materials is granted by publishing them.** In particular, the repository's MIT `LICENSE` is intended for SandboxRise-authored software code, not the logo, original brand story, promotional copy or other separately identified brand artwork. The SIL Open Font License governs the specified third-party fonts, not the SandboxRise visual identity.
+
+You may view these materials as part of their published presentation. Reproducing or adapting the artwork or story for another product, implying SandboxRise endorsement, or using the wordmark as your own identity requires permission from the applicable rights holder(s), except where applicable law independently permits a use. For permission enquiries, email **hello.sandboxrise@gmail.com**. An email link only prepares a draft; the sender must actually send it.
+
+This notice does not purport to withdraw any valid permission previously granted for existing code or material. It does not claim a registered trademark, an incorporated business or ownership of independently licensed third-party content. Rights to user-supplied/third-party elements remain with their actual rights holders.
