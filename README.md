@@ -31,11 +31,6 @@ Our starting point is always the same: understand the idea, agree the scope in w
 
 Our mark draws on a story of a father and daughter. When a swing rope breaks, the girl falls—but wants to try again. Her father lays sand beneath the swing, supports the rope and gives her another push; they find joy in the second try together. For us, it is a **metaphor for resilience, a stronger foundation and support when an idea needs to rise again**—not real-world advice to use a damaged swing.
 
-## An honest look at this repository
-
-This is the public **SandboxRise GitHub profile**. It contains the profile introduction and licensing notices, not a published client portfolio or the website source. On our own website, publicly launched work may eventually appear only as a small anonymous, non-confidential glimpse, subject to client opt-out or stricter written restrictions. Identifiable details need prior written permission; we will not post even an anonymous client-product glimpse on GitHub or any social channel without separate prior written permission.
-
-The planned website address, `https://sandbox-rise.web.app/`, is **not yet published as a SandboxRise site**; it is not presented here as a deployed service. For a current conversation, email [hello.sandboxrise@gmail.com](mailto:hello.sandboxrise@gmail.com). Email links open a draft that **you must send yourself**.
 
 Interested in working with us? We welcome introductions from people of **any background or career stage**. A message is an invitation to connect, not a promise of a current vacancy.
 
